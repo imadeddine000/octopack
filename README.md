@@ -1,3 +1,5 @@
+![octopack logo](./octopack.png)
+
 # octopack
 
 **Smart framework detection & Dockerfile generation** — zero dependencies, pure Python stdlib.
